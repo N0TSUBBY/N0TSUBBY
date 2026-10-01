@@ -1,21 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on making a guns.lol alternative <br>🌱 I’m currently learning in secondary education <br>💬 Ask me about anything you want<br>⚡ Fun fact: I share the same birthday with my father and my cousin
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=600&lines=Hey%2C+I%27m+Snipezzz;Just+Tryna+Code+And+Live+Life;Developer+%26+Designer;Always+shipping+something+new" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Discord](https://share.google/RTBIyrywDfZz2S1lV)]([https://discord.gg/lil_snipez](https://discord.gg/CUPMej75)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s4bby.s) [![website]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white))]
+<br/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Snipezzz&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Snipezzz&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Snipezzz&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://snipez.social">
+  <img src="https://img.shields.io/badge/Website-snipez.social-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+</a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://img.shields.io/badge/Discord-Profile-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Snipezzz&label=VISITORS&color=000000&style=for-the-badge" alt="Visitors"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Snipezzz&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🔭 &nbsp; Currently building a **guns.lol alternative** → [snipez.social](https://snipez.social)
+- 🌱 &nbsp; Studying in **secondary education**
+- 💬 &nbsp; Ask me about **anything** — I love a good chat
+- ⚡ &nbsp; Fun fact: I share the **same birthday** as my father and my cousin
+- 🎯 &nbsp; Goal: ship something **every single week**
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## ✍️ Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/Snipezzz">Snipezzz</a> — built with 🖤</sub>
+</div>
