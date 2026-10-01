@@ -18,7 +18,6 @@
 
 ## 💫 About Me
 
-- 🔭 &nbsp; Currently building a **guns.lol alternative** → [snipez.social](https://snipez.social)
 - 🌱 &nbsp; Studying in **secondary education**
 - 💬 &nbsp; Ask me about **anything** — I love a good chat
 - ⚡ &nbsp; Fun fact: I share the **same birthday** as my father and my cousin
